@@ -139,4 +139,9 @@ Once your store is technically sound, growth is about acquiring customers effici
 
 ---
 
+**Navigation**
+
+- [Table of Contents](TOC.md)
+- Previous: [Technical Setup](technical-setup.md)
+
 *End of Growth & Marketing chapter*

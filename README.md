@@ -2,6 +2,10 @@
 
 A comprehensive guide for D2C brands and Shopify store owners on how to set up, optimize, and grow a successful Shopify store.
 
+**Start reading below** or jump to the [Table of Contents](TOC.md).
+
+---
+
 ## Overview
 
 This ebook is divided into two main sections:

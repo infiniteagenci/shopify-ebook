@@ -119,4 +119,9 @@ A minimal, high-performing store uses only necessary apps. Avoid bloat.
 
 ---
 
+**Navigation**
+
+- [Table of Contents](TOC.md)
+- Next: [Growth & Marketing](growth-marketing.md)
+
 *End of Technical Setup chapter*
