@@ -8,7 +8,26 @@
    - 4. Performance Best Practices
    - 5. Security & Compliance
    - 6. Testing Before Launch
-3. [Growth & Marketing](growth-marketing.md)
+3. [Technical Debt & Performance Optimization](performance-optimization.md)
+   - Diagnosing Performance Problems
+   - Image Optimization
+   - Reducing App Bloat
+   - Theme Optimization
+   - Third‑Party Script Management
+   - Checkout Performance
+   - Continuous Monitoring
+   - Leveraging Shopify's Infrastructure
+   - Case Study
+4. [Marketing Attribution in a Privacy‑First World](marketing-attribution.md)
+   - The Attribution Crisis
+   - New Measurement Frameworks
+   - Practical Setup for Shopify
+   - Interpreting Data without Panic
+   - Incrementality Testing
+   - Future‑Proofing
+   - Common Pitfalls
+   - 30‑Day Action Plan
+5. [Growth & Marketing](growth-marketing.md)
    - 1. Acquisition Strategies
    - 2. Conversion Optimization
    - 3. Retention & Loyalty
