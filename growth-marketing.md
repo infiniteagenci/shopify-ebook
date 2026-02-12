@@ -143,5 +143,6 @@ Once your store is technically sound, growth is about acquiring customers effici
 
 - [Table of Contents](TOC.md)
 - Previous: [Marketing Attribution in a Privacy‑First World](marketing-attribution.md)
+- Next: [Must‑Have Shopify Apps](must-have-apps.md)
 
 *End of Growth & Marketing chapter*

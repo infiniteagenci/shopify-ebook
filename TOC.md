@@ -35,6 +35,14 @@
    - 5. Analytics & Attribution
    - 6. Retention Metrics & Benchmarks
    - 7. Scaling Considerations
+6. [Must‑Have Shopify Apps](must-have-apps.md)
+   - How to Choose Apps
+   - Core Categories & Top Picks
+   - App Hygiene & Maintenance
+   - Performance Impact – What to Watch
+   - Essential Free Apps
+   - When to Build Custom Instead of Installing
+   - App Portfolio Example
 
 ---
 
