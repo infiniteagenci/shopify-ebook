@@ -23,19 +23,56 @@ Once your store is technically sound, growth is about acquiring customers effici
 - **Responsive Search Ads**: Use RSA with multiple headlines and descriptions; let Google optimize
 - Negative keywords to exclude non-buyers (e.g., "free", "how to", "DIY")
 
-### 1.3 Influencer & Creator Partnerships
+### 1.3 Google Merchant Centre (Free Listings)
+Google Merchant Centre (GMC) allows you to list your Shopify products on Google Search and Shopping for free. This is a massive, often underutilized, acquisition channel with zero cost-per-click.
+
+#### Why Use GMC?
+- Your products appear in Google Shopping results and the Shopping tab, even without paid Google Ads.
+- Local inventory ads (if you have physical stores).
+- Can be combined with free listings and paid Shopping campaigns.
+
+#### Setup Steps
+1. **Create a Google Merchant Centre account** at https://merchants.google.com
+2. **Verify your website** (via HTML file upload, meta tag, or Google Tag Manager).
+3. **Install the Google & Instagram app** (or **Shopify Google channel**) from the Shopify App Store.
+4. Connect the app to your GMC account; it will automatically create a product feed.
+5. Configure feed settings: select countries, language, shipping, tax, and returns policy.
+6. Submit for review (typically 1–3 days). Ensure all required product data (title, description, image, price, availability, GTIN/MPN) is complete.
+7. Once approved, products appear in Google Shopping and can also be used in Google Ads (Shopping campaigns).
+
+#### Best Practices
+- **GTINs are critical**: Provide accurate GTINs for brand products; use MPN + brand for unique items.
+- **High-quality images**: Minimum 100x100 pixels, no watermarks, clear background.
+- **Shipping & returns**: Set clear shipping costs and return policy in Shopify and GMC; they must match.
+- **Data quality**: Address disapprovals promptly (missing GTIN, price mismatch, etc.).
+- **Feeds sync**: The Shopify app syncs every few hours; for large catalogs, schedule incremental updates.
+- **Free vs. Paid**: Free listings show in Shopping tab; to appear on Google Search (top), you need a Shopping ad campaign with Google Ads.
+
+#### Monetization Options
+- Enable **Shopping ads** (pay-per-click) for higher visibility and targeting.
+- Use **Performance Max** campaigns to automatically promote across Google surfaces.
+
+#### Troubleshooting
+- **Disapprovals**: Check the GMC Diagnostics page; common issues are missing GTINs, invalid URLs, or mismatched shipping.
+- **No products showing**: Ensure your Shopify store is in a supported country and your website is verified.
+- **Slow sync**: Large catalogs may take 24–48 hours to fully populate.
+
+#### Impact
+Free listings can drive thousands of impressions monthly with zero ad spend. Combined with optimized product data, this channel often becomes a top 3 acquisition source for D2C brands.
+
+### 1.4 Influencer & Creator Partnerships
 - Micro-influencers (10k–100k followers): Higher engagement, lower cost
 - Offer commission-based partnerships (affiliate links via Shopify apps like **Affiliate** or **Refersion**)
 - Provide unique discount codes to track ROI
 - Require content usage rights for ads
 
-### 1.4 Content & SEO
+### 1.5 Content & SEO
 - Publish blog content around product use cases and buyer intent keywords
 - Optimize product pages for long-tail keywords (include size, color, use case)
 - Build topical authority via **content clusters** (hub pages, pillar content)
 - Earn backlinks through PR, partnerships, and guest posting
 
-### 1.5 Email Acquisition
+### 1.6 Email Acquisition
 - Lead magnets: discount for email signup, free guide, quiz-based recommendations
 - Exit-intent popups (with incentive)
 - Collect emails via **Klaviyo** signup forms; segment by source and behavior immediately
