@@ -205,5 +205,6 @@ Compliance is not a one-time task. Revisit quarterly:
 
 - [Table of Contents](TOC.md)
 - Previous: [Customer Service & Support Systems](customer-support.md)
+- Next: [Analytics & Reporting Deep Dive](analytics-reporting.md)
 
 *End of Legal & Compliance Deep Dive chapter*

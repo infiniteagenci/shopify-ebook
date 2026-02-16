@@ -91,17 +91,30 @@
    - Tools Stack by Stage
    - Security & Privacy
    - Case Study
-12. [Legal & Compliance Deep Dive](legal-compliance.md)
-   - Privacy Regulations (GDPR, CCPA, State Laws)
-   - Terms of Service & Refund Policy
-   - Accessibility (ADA & WCAG)
-   - Payment Security & PCI Compliance
-   - Email & SMS Marketing Compliance
-   - Copyright & Trademark
-   - Age-Restricted Products
-   - Environmental Claims (Greenwashing)
-   - Compliance Checklist by Launch
-   - Ongoing Maintenance
+12. [Analytics & Reporting Deep Dive](analytics-reporting.md)
+   - Why Analytics Matter
+   - Core Analytics Platforms
+   - Essential Metrics & Reports
+   - Setting Up GA4 for Shopify
+   - Attribution Models
+   - Shopify Reports to Master
+   - Custom Dashboards with Looker Studio
+   - Advanced Analysis Techniques
+   - Action Framework: From Data to Decisions
+   - Common Pitfalls to Avoid
+   - Quick Reference: Essential Dashboards
+13. [Multichannel & Marketplace Selling](multichannel-marketplace.md)
+   - Why Multichannel?
+   - Choosing the Right Channels
+   - Setting Up Shopify for Multichannel
+   - Google Merchant Centre & Shopping
+   - Amazon Integration
+   - Social Commerce (Instagram, Facebook, TikTok, Pinterest)
+   - Order & Inventory Management
+   - Pricing & Brand Consistency
+   - Measuring Multichannel Success
+   - Common Pitfalls & How to Avoid Them
+   - Implementation Checklist
 
 ---
 

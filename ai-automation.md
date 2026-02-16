@@ -206,6 +206,6 @@ Identify repetitive manual tasks:
 
 - [Table of Contents](TOC.md)
 - Previous: [Must‑Have Shopify Apps](must-have-apps.md)
-- Next: [Product Photography & Visual Content](product-photography.md)
+- Next: [Analytics & Reporting Deep Dive](analytics-reporting.md)
 
 *End of Shopify AI & Automation chapter*
