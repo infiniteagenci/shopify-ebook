@@ -43,6 +43,37 @@
    - Essential Free Apps
    - When to Build Custom Instead of Installing
    - App Portfolio Example
+7. [Product Photography & Visual Content](product-photography.md)
+   - Why Visual Content Matters
+   - Image Quality Standards
+   - Essential Image Types
+   - Shopify Implementation Guide
+   - Theme & Design Considerations
+   - Optimization Checklist
+   - Recommended Apps
+   - Advanced: AR & 3D
+   - Common Mistakes to Avoid
+   - Measuring Success
+8. [Customer Service & Support Systems](customer-support.md)
+   - Core Support Channels
+   - Essential Support Apps
+   - Support Workflow Best Practices
+   - Metrics to Track
+   - Scaling Support
+   - Tools Stack by Stage
+   - Security & Privacy
+   - Case Study
+9. [Legal & Compliance Deep Dive](legal-compliance.md)
+   - Privacy Regulations (GDPR, CCPA, State Laws)
+   - Terms of Service & Refund Policy
+   - Accessibility (ADA & WCAG)
+   - Payment Security & PCI Compliance
+   - Email & SMS Marketing Compliance
+   - Copyright & Trademark
+   - Age-Restricted Products
+   - Environmental Claims (Greenwashing)
+   - Compliance Checklist by Launch
+   - Ongoing Maintenance
 
 ---
 
