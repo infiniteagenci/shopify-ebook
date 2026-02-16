@@ -240,6 +240,6 @@ This stack can yield strong ROI if each app is actively used and contributes to 
 
 - [Table of Contents](TOC.md)
 - Previous: [Growth & Marketing](growth-marketing.md)
-- Next: [Product Photography & Visual Content](product-photography.md)
+- Next: [Shopify AI & Automation](ai-automation.md)
 
 *End of Must‑Have Shopify Apps chapter*

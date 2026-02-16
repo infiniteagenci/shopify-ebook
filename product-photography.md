@@ -222,7 +222,7 @@ Track these metrics in Shopify Analytics or Google Analytics:
 **Navigation**
 
 - [Table of Contents](TOC.md)
-- Previous: [Must‑Have Shopify Apps](must-have-apps.md)
+- Previous: [Shopify AI & Automation](ai-automation.md)
 - Next: [Customer Service & Support Systems](customer-support.md)
 
 *End of Product Photography & Visual Content chapter*

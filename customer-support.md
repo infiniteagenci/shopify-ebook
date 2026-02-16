@@ -146,6 +146,6 @@ They implemented Gorgias:
 
 - [Table of Contents](TOC.md)
 - Previous: [Product Photography & Visual Content](product-photography.md)
-- Next: [Legal & Compliance Deep Dive](legal-compliance.md) *(upcoming)*
+- Next: [Legal & Compliance Deep Dive](legal-compliance.md)
 
 *End of Customer Service & Support Systems chapter*

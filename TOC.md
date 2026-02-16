@@ -63,7 +63,35 @@
    - Tools Stack by Stage
    - Security & Privacy
    - Case Study
-9. [Legal & Compliance Deep Dive](legal-compliance.md)
+9. [Shopify AI & Automation](ai-automation.md)
+   - Shopify Sidekick: Your AI Assistant
+   - Shopify Flow: No-Code Automation
+   - Other AI-Powered Features
+   - Building Your AI & Automation Strategy
+   - Resources
+10. [Product Photography & Visual Content](product-photography.md)
+   - Why Visual Content Matters
+   - Image Quality Standards
+   - Essential Image Types
+   - Shopify Implementation Guide
+   - Theme & Design Considerations
+   - Optimization Checklist
+   - Recommended Apps
+   - AI-Generated Images with Shopify
+   - Advanced: AR & 3D
+   - Common Mistakes to Avoid
+   - Measuring Success
+   - Quick Reference: Image Specs
+11. [Customer Service & Support Systems](customer-support.md)
+   - Core Support Channels
+   - Essential Support Apps
+   - Support Workflow Best Practices
+   - Metrics to Track
+   - Scaling Support
+   - Tools Stack by Stage
+   - Security & Privacy
+   - Case Study
+12. [Legal & Compliance Deep Dive](legal-compliance.md)
    - Privacy Regulations (GDPR, CCPA, State Laws)
    - Terms of Service & Refund Policy
    - Accessibility (ADA & WCAG)
