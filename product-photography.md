@@ -141,7 +141,44 @@ Shopify's built-in zoom is basic. For a better experience, consider:
 ### Video
 - **Vimeo** or **YouTube** – Host videos externally and embed; better than uploading to Shopify for performance.
 
-## 8. Advanced: AR & 3D
+## 8. AI-Generated Images with Shopify
+
+Shopify now offers built-in AI image generation (powered by Midjourney/Stable Diffusion) directly in the admin. This can be a game-changer for stores that lack professional photography.
+
+### How It Works
+- In Shopify admin, go to a product's media section
+- Click "Generate image" (or similar; feature may be under "Add from" > "AI image")
+- Describe the image you want: style, setting, composition, mood
+- AI generates multiple options; select and apply to product
+
+### Use Cases
+- **Quick hero images** for new products before photoshoot
+- **Lifestyle scenes** – place product in context without a photoshoot
+- **Variants** – generate images for different colors/options
+- **Social media content** – create promotional visuals
+
+### Best Practices
+- Be specific in prompts: include product type, color, background, lighting, style (e.g., "minimalist white background", "lifestyle kitchen scene", "product on wooden table with natural light")
+- Generated images may have artifacts; review carefully for accuracy
+- Keep brand consistency; stick to a visual style guide (colors, mood)
+- Use as supplement, not replacement for real photos for premium brands
+
+### Limitations
+- Not all Shopify plans have access (often Plus or higher)
+- Watermark may be present on some outputs (check licensing)
+- May not perfectly represent actual product; risk of returns if misleading
+- Limited control over fine details compared to custom photography
+
+### Cost
+- Usually included with certain Shopify plans or available as an add-on (e.g., $9.99/mo)
+- Saves thousands in photoshoot costs for small catalogs
+
+### Ethical & Legal Considerations
+- Disclose AI-generated images if required by jurisdiction (some require labeling)
+- Avoid deceptive images that don't match actual product
+- Copyright: Generated images are typically commercial-use friendly but verify Shopify's terms
+
+## 9. AR & 3D
 
 Shopify supports USDZ files for AR on iOS and 3D models on web. Consider if:
 - Products benefit from 3D visualization (jewelry, home goods, furniture)
@@ -186,6 +223,6 @@ Track these metrics in Shopify Analytics or Google Analytics:
 
 - [Table of Contents](TOC.md)
 - Previous: [Must‑Have Shopify Apps](must-have-apps.md)
-- Next: [Customer Service & Support Systems](customer-support.md) *(upcoming)*
+- Next: [Customer Service & Support Systems](customer-support.md)
 
 *End of Product Photography & Visual Content chapter*
